@@ -1,2 +1,9 @@
 # Password-strength-easy
 First repository and mini project i do, simple strength password checker 
+# Password Strength Checker
+
+A simple Python program that checks how strong a password is based on length,
+numbers, and special characters.
+
+## How to Run
+python main.py
